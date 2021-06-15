@@ -10,3 +10,4 @@ elif (y % 4 == 0):
     print("閏年です。")
 else:
     print("not閏年です。")
+input()
