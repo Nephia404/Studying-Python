@@ -1,7 +1,5 @@
 N,K = map(int,input().split())
 A = list(map(int,input().split()))
-
-Time = 0
 Count = 0
 
 for i in range(N):
