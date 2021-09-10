@@ -1,4 +1,3 @@
-from bisect import insort
 import random
 
 color_list = ["red","blue","yellow","purple","green"]
