@@ -1,4 +1,8 @@
 N = int(input())
-M = float(1 / 5**N)
+Number = str(2**N)
+Zero ='0.'
 
-print(M)
+for i in range(N-1):
+    Zero = Zero + '0'
+
+print(Zero+Number)
