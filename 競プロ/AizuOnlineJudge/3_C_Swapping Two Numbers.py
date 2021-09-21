@@ -13,5 +13,5 @@ while True:                         #無限ループ
         li_2.append(b)              #配列li_2の最後尾に右の値追加
     a,b = map(int,input().split())  #再度値入力
 
-for i in range(len(li_1)):                  #二つの配列を頭から順番に表示
+for i in range(len(li_1)):          #二つの配列を頭から順番に表示
     print(str(li_1[i])+' '+str(li_2[i]))    
