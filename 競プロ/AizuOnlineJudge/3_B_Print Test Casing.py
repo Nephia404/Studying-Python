@@ -5,4 +5,4 @@ while n != 0:
     n = int(input())    #次の数を入力する
 
 for i in range(len(x)):
-    print('case '+str((i+1))+': '+str(x[i]))
+    print('Case '+str((i+1))+': '+str(x[i]))
